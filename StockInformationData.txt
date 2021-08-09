@@ -1,0 +1,12 @@
+A01,Meloxicam,Alphapharm,2-Feb-14,2-Mar-24,19.456,Capsules,Sample,I+N,10
+P02,Fentanyl,Pharma Medica,3-Mar-13,3-May-24,14451.748,Drops,Sample,N+L,25
+L03,Ativan,Locus,5-Mar-14,2-Apr-25,7500.0,Inhalers,Sample,I+N+L,38
+M05,Ibuprofen,Merck Group,4-Jun-16,5-Jun-27,305.6,Capsules,Regular,I+N+L,40
+P06,Ozempic,Pharma Nord,11-Oct-19,7-Oct-35,4817.6,Buccal,Regular,I+N,29
+I04,Metoprolol,Ipsen,12-Oct-16,2-Nov-34,35502.51,Patches,Sample,I+L,100
+V07,Methadone,Viromed,11-Apr-13,9-Oct-33,346.0,Topical,Regular,I+N+L,102
+S08,Cephalexin,SinoPharm Group,8-May-16,10-Sep-32,554.507,Topical,Sample,I+N,21
+S09,Lisinopril,Piramal Group,11-Mar-16,12-Oct-36,4000.0,Liquid,Regular,I+L,212
+P10,Brilinta,Purdue Pharma,8-Sep-16,10-May-36,312.0,Liquid,Regular,I+N+L,310
+P11,Wellbutrin,Prometic Life,11-Nov-13,10-Apr-36,6782.0,Liquid,Sample,I+N+L,56
+M13,Loratadine,Medinfar,9-Mar-19,12-Jun-34,4000.0,Liquid,Sample,I,84
